@@ -135,7 +135,7 @@ Outline:
 
 Ryan Spink: Cooking with an Immersion Circulator
 
-Outline:
+Outline: https://gist.github.com/Ryanspink1/f3c0b495d7543d278cf1adcc817f9e34
 
 
 
